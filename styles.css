@@ -1,0 +1,13 @@
+a{
+    font-size: medium;
+    color: cadetblue;
+
+}
+
+a:hover{
+    color: aqua;
+}
+
+.canvas {
+    border: 5px solid black;
+}
